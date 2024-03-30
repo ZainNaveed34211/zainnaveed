@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-htr--tech-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-ZainNaveed34211-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
