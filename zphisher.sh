@@ -1,9 +1,9 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.3.5
-##   Github 	: 	https://github.com/htr-tech/zphisher
+##   zainnaveed 	: 	Automated Phishing Tool
+##   Author 	        : 	Zain Naveed
+##   Version 	        : 	2.3.5
+##   Github       	: 	https://github.com/ZainNaveed34211/zainnaveed
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
