@@ -1,8 +1,5 @@
 <!-- zainnaveed -->
 
-<p align="center">
-  <img src=".github/misc/logo.png">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
@@ -150,12 +147,4 @@ $ zainnaveed
 - **Termux**
 </details>
 
-##
 
-<h3 align="center"><i>:: Workflow ::</i></h3>
-<p align="center">
-<img src=".github/misc/workflow.gif"/>
-</p>
-
-
-<!-- // -->
