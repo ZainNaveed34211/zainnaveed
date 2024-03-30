@@ -1,6 +1,8 @@
 <!-- zainnaveed -->
 <p align="centre">
   <h1>My name is Zain.I born on 10-10-2008.I am student.I make this tool for those people who want hacking but not have much knowledge.</h1>
+  <h2>About me:
+  TikTok:meharzain34211</h2>
 </p>
 
 <p align="center">
