@@ -67,7 +67,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Now go to cloned directory and run `zainnaveed.sh` -
   ```
   $ cd zainnaveed
-  $ bash zainnaveed.sh
+  $ chmod +x zainnaveed.sh
+  $ ./zainnaveed.sh(Some times show error if used by bash)
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***zainnaveed*** is installed.
@@ -82,7 +83,7 @@ $ pkg install git
 $ git clone https://github.com/ZainNaveed34211/zainnaveed.git
 $ cd zainnaveed
 $ chmod +x zainnaveed.sh
-$ bash zainnaveed.sh
+$ ./zainnaveed.sh(Some times show error if used by bash)
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *zainnaveed* in any of the termux discussion groups.
