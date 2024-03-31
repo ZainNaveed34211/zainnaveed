@@ -3,7 +3,12 @@
   <h1>My name is Zain.I born on 10-10-2008.I am student.I make this tool for those people who want hacking but not have much knowledge.</h1>
   <h2>About me:
   TikTok:meharzain34211
-  Email:zainnaveed34211@gmail.com </h2>
+  Email:zainnaveed34211@gmail.com 
+  Phone:(+) 92 302 6115 717
+  ![WhatsApp Image 2023-12-22 at 9 28 10 PM21](https://github.com/ZainNaveed34211/zainnaveed/assets/158331210/09650867-cba7-4399-96f4-c96fe39e2279)
+
+  </h2>
+
 </p>
 
 <p align="center">
@@ -71,9 +76,12 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 ### Installation (Termux)
 You can easily install zainnaveed in Termux by using tur-repo
 ```
-$ pkg install tur-repo
-$ pkg install zainnaveed
-$ zainnaveed
+$ pkg update & pkg upgrade -y
+$ pkg install git
+$ git clone https://github.com/ZainNaveed34211/zainnaveed.git
+$ cd zainnaveed
+$ chmod +x zainnaveed.sh
+$ bash zainnaveed.sh
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *zainnaveed* in any of the termux discussion groups.
