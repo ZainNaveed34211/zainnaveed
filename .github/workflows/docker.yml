@@ -18,13 +18,13 @@ jobs:
       - name: Build Image
         run: |
           # Build Docker Image for DockerHub
-          docker build --tag htrtech/zphisher:latest .
+          docker build --tag ZainNaveed34211/zainnaveed:latest .
 
           # Tag Docker Image for GHCR
-          docker tag htrtech/zphisher:latest ghcr.io/htr-tech/zphisher:latest
+          docker tag ZainNaveed34211/zainnaveed:latest ghcr.io/ZainNaveed34211/zainnaveed:latest
 
       - name: Login to GHCR
-        if: github.repository == 'htr-tech/zphisher' && github.ref == 'refs/heads/master'
+        if: github.repository == 'ZainNaveed34211/zainnaveed' && github.ref == 'refs/heads/master'
         uses: docker/login-action@v2
         with:
           registry: ghcr.io
@@ -32,14 +32,14 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Login to DockerHub
-        if: github.repository == 'htr-tech/zphisher' && github.ref == 'refs/heads/master'
+        if: github.repository == 'ZainNaveed34211/zainnaveed' && github.ref == 'refs/heads/master'
         uses: docker/login-action@v2
         with:
-          username: "htrtech"
+          username: "ZainNaveed34211"
           password: ${{ secrets.DOCKER_TOKEN }}
 
       - name: Push
-        if: github.repository == 'htr-tech/zphisher' && github.ref == 'refs/heads/master'
+        if: github.repository == 'ZainNaveed34211/zainnaveed' && github.ref == 'refs/heads/master'
         run: |
           # Push to DockerHub
           docker push htrtech/zphisher:latest
