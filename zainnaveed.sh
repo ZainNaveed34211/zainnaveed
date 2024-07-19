@@ -197,7 +197,7 @@ banner() {
 		${RED}  Z    World no 1 HACKER
 		${RED}  A    Tik Tok : meharzain34211
 		${RED}  I     Email: zainnaveed34211@gmail.com 
-		${RED}  N     Phone: 03471581246
+		${RED}  N     Phone: 03285049744
 		${RED}  N    
 		${RED}  A      A PHISHING TOOL FOR HACKING
 		${RED}  V            (FREE)
@@ -214,7 +214,7 @@ banner_small() {
 	cat <<- EOF
 		${BLUE}   Z     Tik Tok:meharzain34211
 		${BLUE}   A      Email:zainnaveed34211@gmail.com 
-		${BLUE}   I      Phone:03471581246
+		${BLUE}   I      Phone:03285049744
 		${BLUE}   N                      ${WHITE} ${__version__}
 	EOF
 }
